@@ -1,7 +1,7 @@
 # Day 2 – Anomaly Report
 **Dataset:** Online Retail - Kaggle  
 **Date:** 2025-08-13 
-**Analyst:** Ayisha Liya
+**Analyst:** Aditya Pathak
 
 ---
 

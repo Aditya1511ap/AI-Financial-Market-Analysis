@@ -64,9 +64,15 @@ Perfect for understanding financial price movements and building models.
 
 ## 🚀 How to Run  
 
-### 1️⃣ Clone the repository  
-```bash
+### 1️⃣ Clone the repository 
 git clone https://github.com/Aditya1511ap/AI-Financial-Market-Analysis.git
 cd AI-Financial-Market-Analysis
+
+###2️⃣ Install dependencies
 pip install -r requirements.txt
+
+###3️⃣ Open the Jupyter Notebook
 jupyter notebook "AI Financial&Market Analysis.ipynb"
+
+
+

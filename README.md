@@ -58,7 +58,7 @@ This dataset includes fields such as:
 - Volume  
 - Market Indicators  
 
-Perfect for understanding financial price movements and building models.
+Perfect for understanding financial price movements and building  new models.
 
 ---
 

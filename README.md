@@ -40,3 +40,31 @@ This project focuses on analyzing financial market behavior using statistical te
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 📥 Dataset  
+The project uses a realistic synthetic dataset named:
+
+**ai_financial_market_daily_realistic_synthetic.csv**
+
+This dataset includes fields such as:
+
+- Date  
+- Open  
+- Close  
+- High  
+- Low  
+- Volume  
+- Market Indicators  
+
+Perfect for understanding financial price movements and building models.
+
+---
+
+## 🚀 How to Run  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/Aditya1511ap/AI-Financial-Market-Analysis.git
+cd AI-Financial-Market-Analysis

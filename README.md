@@ -68,3 +68,5 @@ Perfect for understanding financial price movements and building models.
 ```bash
 git clone https://github.com/Aditya1511ap/AI-Financial-Market-Analysis.git
 cd AI-Financial-Market-Analysis
+pip install -r requirements.txt
+jupyter notebook "AI Financial&Market Analysis.ipynb"
